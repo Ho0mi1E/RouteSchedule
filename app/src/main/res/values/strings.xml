@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">RouteSchedule</string>
+    <string name="app_name">Расписание маршрутов</string>
+    <string name="bus">Автобус</string>
+    <string name="trolleybus">Тролейбус</string>
+    <string name="tram">Трамвай</string>
+
 </resources>
